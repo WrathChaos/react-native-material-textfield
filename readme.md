@@ -41,7 +41,7 @@ Material texfield with consistent behaviour on iOS and Android
 ## Installation
 
 ```bash
-npm install --save react-native-material-textfield
+npm install @freakcoder/react-native-material-textfield
 ```
 
 ## Usage
@@ -52,7 +52,7 @@ import {
   TextField,
   FilledTextField,
   OutlinedTextField,
-} from 'react-native-material-textfield';
+} from '@freakcoder/react-native-material-textfield';
 
 class Example extends Component {
   fieldRef = React.createRef();
